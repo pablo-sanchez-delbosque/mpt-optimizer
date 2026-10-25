@@ -66,6 +66,7 @@ jupyter notebook
 ```
 
 Open the notebook and run all cells (Kernel → Restart & Run All).
+
 Asset universe: SPY, EFA, EEM, AGG, TLT, GLD, VNQ, DBC (2015-2025, Yahoo Finance).
 
 ## Results
