@@ -44,6 +44,7 @@ Since `scipy.optimize.minimize` only minimizes, the negative Sharpe ratio is use
 
 ## Project Structure
 
+```
 mpt-optimizer/
 ├── src/
 │   ├── data.py          # download, cleaning, log returns
@@ -53,15 +54,16 @@ mpt-optimizer/
 ├── 01_datos.ipynb       # analysis notebook
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation and Usage
 
-bash
+```bash
 git clone https://github.com/pablo-sanchez-delbosque/mpt-optimizer.git
 cd mpt-optimizer
 pip install -r requirements.txt
 jupyter notebook
-
+```
 
 Open the notebook and run all cells (Kernel → Restart & Run All).
 Asset universe: SPY, EFA, EEM, AGG, TLT, GLD, VNQ, DBC (2015-2025, Yahoo Finance).
