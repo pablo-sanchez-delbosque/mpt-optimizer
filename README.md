@@ -51,7 +51,7 @@ mpt-optimizer/
 │   ├── simulation.py    # Monte Carlo portfolio simulation
 │   └── optimization.py  # max Sharpe, min volatility, efficient frontier
 ├── results/             # interactive HTML and static PNG of the frontier
-├── 01_datos.ipynb       # analysis notebook
+├── portfolio_analysis.ipynb   # analysis notebook
 ├── requirements.txt
 └── README.md
 ```
